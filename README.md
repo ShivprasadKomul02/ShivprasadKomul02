@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivprasad Komul</h1>
 <h3 align="center">A Pre-final year Student and passionate Blockchain developer from India</h3>
 
-- 🔭 I’m currently doing freelancing in **Blockchain Developement**
+- 🔭 I’m currently doing freelancing in **Blockchain Development**
 
 - 🌱 I’m currently learning **Solana**
 
