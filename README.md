@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on backend development and **Blockchain Development**
 
-- 🔭 Have good Experience in web technologies Technologies like Node.js ,Java,PHP and React.js etc.
-
 - 🌱 I’m currently pursuing Bachelor of Engg at PICT Pune
 
 - 👯 I’m looking to collaborate on **Blockchain and web projects**
+
+- 🔭 Familier with Java,C++ and Web technologies like Node.js,PHP and React.js,HTML etc.
 
 - 📫 How to reach me **shivprasadkomul2002@gmail.com**
 
