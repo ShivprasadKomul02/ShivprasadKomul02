@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Blockchain and web projects**
 
-- 🔭 Familier with Java,C++ and Web technologies like Node.js,PHP and React.js,HTML etc.
+- 🔭 Familier with Java,C++,Python and Web technologies like Node.js,PHP and React.js,HTML etc.
 
 - 📫 How to reach me **shivprasadkomul2002@gmail.com**
 
