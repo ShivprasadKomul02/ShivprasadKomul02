@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shivprasad Komul</h1>
-<h3 align="center">A final year Student and Blockchain Enthusiast</h3>
+<h3 align="center">A final year Student at PICT Pune</h3>
 
-- 🔭 I’m currently working on backend and **Blockchain Development**
+- 🔭 I’m currently working on backend development and **Blockchain Development**
+
+- 🔭 Have good Experience in web technologies Technologies like Node.js ,Java,PHP and React.js etc.
 
 - 🌱 I’m currently pursuing Bachelor of Engg at PICT Pune
 
@@ -9,7 +11,7 @@
 
 - 📫 How to reach me **shivprasadkomul2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vDMxHeRIixJWwnRyNsfbgoZyG6Qzdeog/view?usp=sharing](https://drive.google.com/file/d/1vDMxHeRIixJWwnRyNsfbgoZyG6Qzdeog/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1sTngTXk59ts16etpvBFu-_vDq_Ik5l_Z/view?usp=sharing](https://drive.google.com/file/d/1sTngTXk59ts16etpvBFu-_vDq_Ik5l_Z/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
